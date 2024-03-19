@@ -1,3 +1,6 @@
+# Motivation
+I developed this simple code to put into practice concepts and good coding practices, design patterns, and clean architecture.
+
 # password-validation
 Simple API to validate a password that must meet the following requirements:
 <ul>
